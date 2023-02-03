@@ -286,13 +286,22 @@
                       "children": [
                         {
                           "widgetName": "Canvas2",
+                          "isDeprecated": false,
+                          "detachFromLayout": true,
                           "displayName": "Canvas",
+                          "widgetId": "vewqugy6k1",
                           "topRow": 0,
                           "bottomRow": 110,
+                          "containerStyle": "none",
                           "parentRowSpace": 1,
+                          "isVisible": true,
                           "type": "CANVAS_WIDGET",
                           "canExtend": false,
+                          "version": 1,
                           "hideCard": true,
+                          "parentId": "v1lledse3o",
+                          "renderMode": "CANVAS",
+                          "isLoading": false,
                           "parentColumnSpace": 1,
                           "leftColumn": 0,
                           "dynamicBindingPathList": [],
@@ -671,16 +680,7 @@
                               "minDynamicHeight": 4
                             }
                           ],
-                          "key": "c1r9vhxtdo",
-                          "isDeprecated": false,
-                          "detachFromLayout": true,
-                          "widgetId": "vewqugy6k1",
-                          "containerStyle": "none",
-                          "isVisible": true,
-                          "version": 1,
-                          "parentId": "v1lledse3o",
-                          "renderMode": "CANVAS",
-                          "isLoading": false
+                          "key": "c1r9vhxtdo"
                         }
                       ],
                       "borderWidth": "1",
@@ -873,7 +873,7 @@
               "originalTopRow": 63,
               "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
               "maxDynamicHeight": 9000,
-              "originalBottomRow": 67,
+              "originalBottomRow": 78,
               "fontSize": "1rem",
               "minDynamicHeight": 4
             }
