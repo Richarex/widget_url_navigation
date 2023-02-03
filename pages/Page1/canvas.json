@@ -873,7 +873,7 @@
               "originalTopRow": 63,
               "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
               "maxDynamicHeight": 9000,
-              "originalBottomRow": 78,
+              "originalBottomRow": 80,
               "fontSize": "1rem",
               "minDynamicHeight": 4
             }
